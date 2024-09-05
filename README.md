@@ -1,4 +1,4 @@
-# 👨‍💻 [Parsa Abedin]
+👨‍💻 [Parsa Abedin]
 
 ### Computer Science Student | Aspiring Data Scientist | Tech Enthusiast
 
