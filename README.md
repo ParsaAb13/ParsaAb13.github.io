@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
   - **Python**: Familiar with basic syntax and concepts, with plans to enhance my skills for data analysis tasks.
   - **R**: Experienced in statistical programming and data manipulation, frequently using it for my data-related projects.
   - **SPSS**: Knowledgeable in statistical analysis and data interpretation.
-  - **PowerBI: Knowledge about DAX and can create all chart. :)
-  - **Other Skills :Git (Global Information Tracker) , ...
+  - PowerBI: Knowledge about DAX and can create all chart. :)
+  - Other Skills :Git (Global Information Tracker) , ...
 
 - **Interests:**
   - **Finance & Technology:** Enthusiastic about the integration of finance and tech, especially in developing solutions that leverage data for better financial decision-making.
