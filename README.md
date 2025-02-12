@@ -20,3 +20,8 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
 - **Interests:**
   - **Finance & Technology:** Enthusiastic about the integration of finance and tech, especially in developing solutions that leverage data for better financial decision-making.
   - **Programming & Development:** Passionate about improving coding skills and exploring new technologies.
+
+### 📫 Contact Me:
+- [LinkedIn](https://www.linkedin.com/in/parsaabedin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAAYN7K6RShSc7dYK8D3XJQ%3D%3D)
+- [Twitter](https://x.com/AbedinParsaa)
+
