@@ -24,4 +24,4 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
 ### 📫 Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/parsaabedin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAAYN7K6RShSc7dYK8D3XJQ%3D%3D)
 - [Twitter](https://x.com/AbedinParsaa)
-
+- [Kaggle](https://www.kaggle.com/parsaabedin)
