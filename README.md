@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
     
   - ![Python](https://img.icons8.com/color/48/000000/python.png): Familiar with basic syntax and concepts, with plans to enhance my skills for data analysis tasks.
     
-  - ![RStudio](https://img.shields.io/badge/RStudio-276DC3?logo=RStudio&logoColor=white): Experienced in statistical programming and data manipulation, frequently using it for my data-related projects.
+  - [![RStudio](https://img.shields.io/badge/RStudio-276DC3?logo=RStudio&logoColor=white)](https://posit.co/): Experienced in statistical programming and data manipulation, frequently using it for my data-related projects.: Experienced in statistical programming and data manipulation, frequently using it for my data-related projects.
 - **Related to Analysis:**
   - **IBM SPSS**(![IBM SPSS](https://img.icons8.com/color/48/000000/ibm.png)): Knowledgeable in statistical analysis and data interpretation.
   - **Power BI**(![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)) : Knowledge about DAX and can create all chart.
