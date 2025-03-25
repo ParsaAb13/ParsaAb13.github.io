@@ -7,37 +7,29 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student curren
 ### 🌱 Currently Learning:
 - **Machine Learning:** Engaging in self-directed projects and coursework to build a solid foundation in algorithms and data manipulation.
 - **Data Science:** Pursuing classes that focus on statistical analysis, data visualization, and predictive modeling.
-- **Deep Learning,Neural Networks and Generative AI:** pursuing classes that focus on CNN , RNN , GAN , RAG, ... 
-
+- **Deep Learning,Neural Networks and Generative AI:** pursuing classes that focus on CNN , RNN , GAN , RAG, ...
+  
 ### 💻 Skills:
-- **Programming Languages:**
-  - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png): Proficient in developing applications and solving complex problems.
-    
-  - ![Python](https://img.icons8.com/color/48/000000/python.png): Familiar with basic syntax and concepts, with plans to enhance my skills for data analysis tasks.
-    
-  - [![RStudio](https://img.shields.io/badge/RStudio-276DC3?logo=RStudio&logoColor=white)](https://posit.co/): Experienced in statistical programming and data manipulation, frequently using it for my data-related projects.: Experienced in statistical programming and data manipulation, frequently using it for my data-related projects.
-- **Related to Analysis:**
-  - **IBM SPSS**(![IBM SPSS](https://img.icons8.com/color/48/000000/ibm.png)): Knowledgeable in statistical analysis and data interpretation.
-  - **Power BI**(![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)) : Knowledge about DAX and can create all chart.
-- **General:**
-  - ![Git](https://img.icons8.com/color/48/000000/git.png),![Docker](https://img.icons8.com/color/48/000000/docker.png) : Version control for tracking changes and containerization for developing and deploying applications.
-### 🤔 Interests:
-  - **Finance & Technology:** Enthusiastic about the integration of finance and tech, especially in developing solutions that leverage data for better financial decision-making.
-  - **Programming & Development:** Passionate about improving coding skills and exploring new technologies.
-  - **Data Enththusiast:** Enthusiastic about Data and Data recording using a questionnaire, working with real data, data cleaning and data analysis were performed.
-  - **Solving Problem:** as a data scientist you must have solving problem about data , programming way or recording questionnaire and some background aboud solving problem in mathematics and Statistics and Probabilities.
-  - **Mathematics:** is a base and i think first step for working in data and an environment of data and computer science , machine learning and ... .
-  - **Machine Learning**:
-    
-   ![ML](https://img.icons8.com/?size=100&id=gTN9eaZkKLFI&format=png&color=000000)
-  - **Deep Learning** :
-    
-   ![Dl](https://img.icons8.com/?size=100&id=oOOSYZyuA844&format=png&color=000000)
-  - **Artificial Intelligence**:
-    
-   ![AI](https://img.icons8.com/?size=100&id=66368&format=png&color=000000)
 
+| Category         | Technologies |
+|---------------------|----------------|
+| Programming    | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-276DC3?logo=RStudio&logoColor=white) |
+| Data Analysis  | ![IBM SPSS](https://img.shields.io/badge/SPSS-Blue?style=flat&logo=ibm&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| Tools         | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+### 📊 GitHub Stats:
+![Parsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parsaAb13&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parsaAb13&layout=compact&theme=tokyonight)
+
+### 🤔 Interests:
+- 🚀 Finance & Technology: Passionate about fintech and leveraging data for financial decision-making.
+- 💻 Programming & Development: Always eager to explore new technologies and improve coding skills.
+- 📊 Data Science Enthusiast: Enjoy working with real datasets, data cleaning, and analysis.
+- 🧠 Problem Solving: Strong interest in tackling data challenges using mathematical and statistical methods.
+- 📚 Mathematics: Believe that math is the foundation for AI, ML, and data science.
+- 🤖 Machine Learning & AI: Always exploring CNNs, RNNs, GANs, and modern AI architectures.
+   
 ### 📫 Contact Me:
-- [LinkedIn](https://www.linkedin.com/in/parsaabedin?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAAYN7K6RShSc7dYK8D3XJQ%3D%3D)
-- [Twitter](https://x.com/AbedinParsaa)
-- [Kaggle](https://www.kaggle.com/parsaabedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsaabedin) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AbedinParsaa) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/parsaabedin)
