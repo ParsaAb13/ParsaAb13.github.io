@@ -33,14 +33,7 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student explor
 ![GitHub Streak](https://streak-stats.demolab.com?user=ParsaAb13&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParsaAb13&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaAb13&layout=compact&theme=tokyonight)  
-
----
-
-## 🤔 Interests  
-- Finance & Technology: Leveraging data for better decision-making.  
-- Programming & Development: Exploring new technologies.  
-- Data Enthusiast: Data collection, cleaning, and analysis.  
-- Mathematics & Statistics: Foundations for ML & AI.  
+  
 
 ---
 
