@@ -42,4 +42,4 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student explor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsaabedin)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AbedinParsaa)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/parsaabedin)
-[![My page]](https://parsaab13.github.io)
+[My Page](https://parsaab13.github.io)
