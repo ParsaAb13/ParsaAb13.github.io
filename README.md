@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m a passionate Computer Science student explor
 ### 📊 Data & Analysis Tools  
 ![IBM SPSS](https://img.shields.io/badge/SPSS-002F86?style=flat&logo=ibm&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 
 ### 🛠️ General Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
